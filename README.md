@@ -41,23 +41,23 @@ Body{color: rgb(255, 255, 0);
     <thead>
           <tbody>
          <th>Video games and rating in general.</th>
-             <tr>Fortnite</tr>
-            <td>5 star</td>
-           <tr>Roblox</tr>
-             <td>4 ½ star</td>
-       <tr>Minecraft</tr>
-  <td>4 ¾ star</td>
-          <tr>Awesome tanks</tr>
-         <td>3 ½ star</td>
-                    <tr>Call of Duty WW2</tr>
-                 <td> ½ star</td>
-                <tr>Arrow.io</tr>
-                <td>4 ½ star</td>
-                           <tr>Slither.io</tr>
-                           <td>Rocket league</td>
-  <tr>Rolling sky</tr>
-         <td>Injustice</td>
-    <tr>??????</tr>
+             <td>Fortnite</td>
+            <tr>5 star</tr>
+           <td>Roblox</td>
+             <tr>4 ½ star</tr>
+       <td>Minecraft</td>
+  <tr>4 ¾ star</tr>
+          <td>Awesome tanks</td>
+         <tr>3 ½ star</tr>
+                    <td>Call of Duty WW2</td>
+                 <tr> ½ star</tr>
+                <td>Arrow.io</td>
+                <tr>4 ½ star</tr>
+                           <td>Slither.io</td>
+                           <tr>Rocket league</tr>
+  <td>Rolling sky</td>
+         <tr>Injustice</tr>
+    <td>??????</td>
 </thead>
 </tbody>
  <a href=“https://m.youtube.com/results?search_query=koifishy” click here to go to koi fishy’s quality YouTube channel!>
