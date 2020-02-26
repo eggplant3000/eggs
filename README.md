@@ -3,6 +3,7 @@
 <head>
 <title>boioioio</title>
 <meta-charset=“utf-8”>
+    </head>
 <style>
 #GAMES{ color: rgb( 0, 0, 400)
 }
@@ -20,7 +21,6 @@ Body{color: rgb(255, 255, 0);
 }
 
 </style>
-</head>
 <h1 id=“GAMES”> Best gaming GAMES!!!</h1>
 <body>
 <p id=“some-games”>So, we all like games!<br> Here are some of the top ten games!</p>
