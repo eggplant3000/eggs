@@ -1,8 +1,9 @@
 <!DOCTYPE html>
 <html>
-<head>
-<title>boioioio</title>
+<title>Top ten video games</title>
+ <head>
 <meta-charset=“utf-8”>
+    
 <style>
 #GAMES{ color: rgb( 0, 0, 400)
 }
@@ -13,10 +14,10 @@ body{color:rgb( 0, 0, 300)
 #some-games{font-weight: bold;
 Font-size=“52px”
 Text-align:center;    
-    Font-family:”serif”, “monospace”
+    Font-family:"serif", “monospace”
 }
 
-Body{color: rgb(255, 255, 0);
+Body{ background-color: rgb(255, 255, 25);
 }
 
 </style>
@@ -40,34 +41,38 @@ Body{color: rgb(255, 255, 0);
     <thead>
           <tbody>
          <th>Video games and rating in general.</th>
-             <tr>Fortnite</tr>
+	<tr>
+             <th>Fortnite</th>
             <td>5 star</td>
-           <tr>Roblox</tr>
+           <th>Roblox</th>
              <td>4 ½ star</td>
-       <tr>Minecraft</tr>
+	</tr>
+	<tr>
+       <th>Minecraft</th>
   <td>4 ¾ star</td>
-          <tr>Awesome tanks</tr>
+          <th>Awesome tanks</th>
          <td>3 ½ star</td>
-                    <tr>Call of Duty WW2</tr>
-                 <td> ½ star</td>
-                <tr>Arrow.io</tr>
+	</tr>		<tr>
+                    <th>Call of Duty WW2</th>
+                 <td>4 ½ star</td>
+                <th>Arrow.io</th>
                 <td>4 ½ star</td>
-                           <tr>Slither.io</tr>
-                           <td>Rocket league</td>
-  <tr>Rolling sky</tr>
-         <td>Injustice</td>
-    <tr>??????</tr>
+		</tr>		
+				<tr>
+              <th>Slither.io</th>
+	      <td>4 1/2 star</td>
+              <th>Rocket league</th>
+	      <td>????????</td>
+	</tr>
+	<tr>
+  <th>Rolling sky</th>
+  <td>4 stars</td>
+         <th>Injustice</th>
+    <td>??????</td>
+	</tr>
 </thead>
 </tbody>
- <a href=“https://m.youtube.com/results?search_query=koifishy” click here to go to koi fishy’s quality YouTube channel!>
-<p> die in a hole now, BYE!!!!</p>
+ <a href=“https://m.youtube.com/results?search_query=koifishy”>
+<p> click here to go to koi fishy’s quality YouTube channel!</p>
 </html>
-
-
-        
-
-
-
-
-        
 
