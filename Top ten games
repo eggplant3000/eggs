@@ -8,7 +8,7 @@
 #GAMES{ color: rgb( 0, 0, 400)
 }
 
-body{color:rgb( 0, 0, 301)
+body{color:rgb( 0, 0, 300)
 }
 
 #some-games{font-weight: bold;
